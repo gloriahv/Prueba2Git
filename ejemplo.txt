@@ -2,3 +2,4 @@ es un ejemplo de un archivo creado en
 developer
 	tasi/LFI-11-CRUD_Client
 		ejemplo.txt
+si funciono y ya comprendi mejor
