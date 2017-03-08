@@ -3,3 +3,4 @@ developer
 	tasi/LFI-11-CRUD_Client
 		ejemplo.txt
 si funciono y ya comprendi mejor
+pero cuando hice el pull despues de varias pruebas tengo la duda de si se actualizo junto con lo que ya tenia y los cambios que hice
