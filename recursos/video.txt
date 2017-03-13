@@ -1,0 +1,1 @@
+los videos deben tener tener una resolucion optima. su peso debe ser menor a !GB
