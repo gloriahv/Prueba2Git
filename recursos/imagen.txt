@@ -1,0 +1,2 @@
+las imagenes no deben pesar mas de 500 MB
+deben ser de una calidad estandar
